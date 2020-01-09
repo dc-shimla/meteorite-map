@@ -1,6 +1,6 @@
-# Map Meteorite
+# Meteorite Map
 
-Map Meteorite is a web mapping application. It imports meteorite landings dataset from NASA’s open data portal via API endpoint. These landings are then cleaned, clustered based on geographical locations and then plotted on to a map.
+Meteorite Map is a web mapping application. It imports meteorite landings dataset from NASA’s open data portal via API endpoint. These landings are then cleaned, clustered based on geographical locations and then plotted on to a map.
 
 # Getting Started
 
