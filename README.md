@@ -24,3 +24,6 @@ This will re-generate meteorite_cluster_map.html, reflecting any changes that ha
 
 ### Author
 * Dhruv Chaudhary - www.mycloudcondo.com
+
+### License
+This project is licensed under the MIT License - see the LICENSE.md file for details
