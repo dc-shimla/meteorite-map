@@ -2,6 +2,8 @@
 
 Map Meteorite is a web mapping application. It imports meteorite landings dataset from NASA’s open data portal via API endpoint. These landings are then cleaned, clustered based on geographical locations and then plotted on to a map.
 
+# Getting Started
+
 ### Prerequisites
 
 Packages:
@@ -9,7 +11,7 @@ Packages:
 * [pandas](https://pypi.org/project/pandas/) 
 * [folium](https://pypi.org/project/folium/)  
 
-## Installation
+### Installation
 
 Download the .zip of the github repository. Open meteorite_cluster_map.html in your internet browsing application to see the generated map. 
 
@@ -22,8 +24,8 @@ python3 create_map.py
 ```
 This will re-generate meteorite_cluster_map.html, reflecting any changes that have been made.
 
-### Author
+# Author
 * Dhruv Chaudhary - www.mycloudcondo.com
 
-### License
+# License
 This project is licensed under the MIT License.
