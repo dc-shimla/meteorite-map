@@ -24,7 +24,7 @@ python3 create_map.py
 ```
 This will re-generate meteorite_cluster_map.html, reflecting any changes that have been made.
 
-# Live Demo
+### Live Demo
 http://www.mycloudcondo.com/projects/meteorite-map/meteorite_cluster_map.html
 
 # Author
