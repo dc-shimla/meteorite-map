@@ -24,11 +24,11 @@ python3 create_map.py
 ```
 This will re-generate meteorite_cluster_map.html, reflecting any changes that have been made.
 
+# Live Demo
+http://www.mycloudcondo.com/projects/meteorite-map/meteorite_cluster_map.html
+
 # Author
 * Dhruv Chaudhary - www.mycloudcondo.com
 
 # License
 This project is licensed under the MIT License.
-
-# Live Demo
-http://www.mycloudcondo.com/projects/meteorite-map/meteorite_cluster_map.html
