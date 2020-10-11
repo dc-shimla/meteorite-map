@@ -29,3 +29,6 @@ This will re-generate meteorite_cluster_map.html, reflecting any changes that ha
 
 # License
 This project is licensed under the MIT License.
+
+# Live Demo
+http://www.mycloudcondo.com/projects/meteorite-map/meteorite_cluster_map.html
